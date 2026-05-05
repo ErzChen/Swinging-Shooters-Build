@@ -6,7 +6,7 @@ A fast-paced first-person shooter built around fluid grapple-and-swing movement.
 
 ## Play
 
-- (https://swingingshooters.netlify.app/)
+- https://swingingshooters.netlify.app/
 
 ---
 
