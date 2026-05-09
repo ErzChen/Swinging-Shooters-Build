@@ -8,7 +8,7 @@ A fast-paced first-person shooter built around fluid grapple-and-swing movement.
 
 Designed for computers and laptops
 
-- <a href="https://swingingshooters.netlify.app/" target="_blank">https://swingingshooters.netlify.app/</a>
+- https://swingingshooters.netlify.app/
 
 ---
 
