@@ -23,6 +23,7 @@ A fast-paced first-person shooter built around fluid grapple-and-swing movement.
 | Swing | Hold Q |
 | Equip Pistol | 1 |
 | Equip Rifle | 2 |
+| Pause Game| P |
 
 ---
 
