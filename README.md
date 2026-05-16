@@ -53,6 +53,7 @@ All assets sourced from the [Unity Asset Store](https://assetstore.unity.com/).
 | Environment Assets | Blue Olive Studio |
 | Bridges | EmacEArt |
 | Rockets | benjathemaker |
+| Outline | Chris Nolet |
 
 ---
 
