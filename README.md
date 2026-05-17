@@ -54,6 +54,7 @@ All assets sourced from the [Unity Asset Store](https://assetstore.unity.com/).
 | Bridges | EmacEArt |
 | Rockets | benjathemaker |
 | Outline | Chris Nolet |
+| Background Music | Alkakrab |
 
 ---
 
