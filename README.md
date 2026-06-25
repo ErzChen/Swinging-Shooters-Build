@@ -57,6 +57,7 @@ All assets sourced from the [Unity Asset Store](https://assetstore.unity.com/).
 | Background Music | Alkakrab |
 | Sci-fi Guns SFX Pack | Mikael Vanninen |
 | Lazer Weapon Sound Effects | Daniel SoundsGood |
+| RPG Essentials Sound Effects | leohpaz |
 
 ---
 
